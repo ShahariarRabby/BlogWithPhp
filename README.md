@@ -26,8 +26,13 @@ To view a live demo just <a href="http://1.rabby.ml">CLick here</a> or visit htt
 </ol>
 
 <h1>How to use</h1>
-<p>Just clone and set the databse in include/db.php, Now u are rady to go</h1>
+<p>Just clone and set the databse in include/db.php, Now u are rady to go</p>
 
+<h1>History</h1>
+This site was my first project after learning php. Site is made in 15 day. I use template from internet, Just search internet for free bootstrap admin panel. We will get the same Template for your blog</p1>
+
+## Thanks To
+<p> Google, stack overflow, Youtube </p>
 <h1>License</h1>
 This blog is open-sourced software licensed under the <a href="https://opensource.org/licenses/MIT">MIT license</a>
 
